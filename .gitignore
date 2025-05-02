@@ -129,6 +129,10 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+.medschat
+.medschat/
+medschat
+medschat/
 
 #Data
 Data/
